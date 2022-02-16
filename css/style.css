@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color:rgba(255, 255, 23, 0.562);
+  background-color:rgb(103 58 183 / 97%);
   display: flex;
   align-items: center;
   justify-content: center;
