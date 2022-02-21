@@ -2,10 +2,10 @@
   box-sizing: border-box;
 }
 body {
-  background-color:rgb(103 58 183 / 97%);
+  background-color: rgb(76 22 171 / 86%);
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   min-height: 100vh;
   margin: 0;
   font-family: "Open Sans", sans-serif;
@@ -100,4 +100,17 @@ body {
   font-size: 16px;
   font-family: inherit;
   border-radius: 4px;
+}
+table thead th {
+  font-size: 13px;
+  color: black;
+  background-color: white;
+  padding: 10px 15px;
+}
+table tbody tr td {
+  font-size: 16px;
+  color: black;
+  background-color: white;
+  padding: 10px 15px;
+  border: 1px solid black;
 }
